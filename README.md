@@ -3,7 +3,7 @@
 QuickBite Express is a food-tech startup  launched in 2020, that links customers with local restaurants and cloud kitchens. In June 2025, the company encountered a serious crisis when a viral social media post revealed food safety issues at some partner restaurants, alongside a week-long delivery disruption caused by the monsoon season. This led to strong customer backlash and disrupted QuickBite’s operations significantly.
 
 This project has been tasked with analysing the QuickBite dataset and 
-providing actionable insights to guide the turnaround strategy.
+providing actionable insights with postgresql
 
 # Dataset
 
