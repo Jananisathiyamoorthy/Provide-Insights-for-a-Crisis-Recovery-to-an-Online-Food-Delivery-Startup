@@ -5,6 +5,11 @@ QuickBite Express is a food-tech startup  launched in 2020, that links customers
 This project has been tasked with analysing the QuickBite dataset and 
 providing actionable insights to guide the turnaround strategy.
 
+# Dataset
+
+google drive link- dataset for this project
+
+https://drive.google.com/drive/folders/1Quom_bgopjpR9O7jwNWXZyIHQ7Tglp-U?usp=drive_link
 
 
 # Objectives:-
